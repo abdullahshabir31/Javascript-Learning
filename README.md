@@ -23,19 +23,18 @@ javascript-learning/
 └── 10-Mini-Projects
 ```
 
-## 🚀 Topics Covered
+## 📚 Topics
 
-- JavaScript Basics
-- Variables & Data Types
-- Operators
-- Conditional Statements
-- Loops
-- Functions
-- Objects
-- Arrays
-- Strings
-- DOM Manipulation
-- Mini Projects
+- ✅ Basics
+- ⏳ Operators
+- ⏳ Conditions
+- ⏳ Loops
+- ⏳ Functions
+- ✅ Objects
+- ⏳ Arrays
+- ⏳ Strings
+- ⏳ DOM
+- ⏳ Mini Projects
 
 ## 💻 Technologies
 
