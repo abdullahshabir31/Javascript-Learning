@@ -26,7 +26,7 @@ javascript-learning/
 ## 📚 Topics
 
 - ✅ Basics
-- ⏳ Operators
+- ✅ Operators
 - ⏳ Conditions
 - ⏳ Loops
 - ⏳ Functions
