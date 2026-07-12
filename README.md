@@ -27,7 +27,7 @@ javascript-learning/
 
 - ✅ Basics
 - ✅ Operators
-- ⏳ Conditions
+- ✅ Conditions
 - ⏳ Loops
 - ⏳ Functions
 - ✅ Objects
