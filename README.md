@@ -29,11 +29,13 @@ javascript-learning/
 - ✅ Operators
 - ✅ Conditions
 - ✅ Loops
-- ⏳ Functions
+- ✅ Functions
 - ✅ Objects
 - ⏳ Arrays
 - ⏳ Strings
 - ⏳ DOM
+- ⏳ Events
+- ⏳ Async JavaScript
 - ⏳ Mini Projects
 
 ## 💻 Technologies
