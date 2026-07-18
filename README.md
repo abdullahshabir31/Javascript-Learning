@@ -31,7 +31,7 @@ javascript-learning/
 - ✅ Loops
 - ✅ Functions
 - ✅ Objects
-- ⏳ Arrays
+- ✅ Arrays
 - ⏳ Strings
 - ⏳ DOM
 - ⏳ Events
