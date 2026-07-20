@@ -32,7 +32,7 @@ javascript-learning/
 - ✅ Functions
 - ✅ Objects
 - ✅ Arrays
-- ⏳ Strings
+- ✅ Strings
 - ⏳ DOM
 - ⏳ Events
 - ⏳ Async JavaScript
