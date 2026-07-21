@@ -1,0 +1,5 @@
+// Example: querySelector()
+
+const title = document.querySelector("#title");
+
+console.log(title.textContent);
