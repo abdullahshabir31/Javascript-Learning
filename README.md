@@ -33,7 +33,7 @@ javascript-learning/
 - ✅ Objects
 - ✅ Arrays
 - ✅ Strings
-- ⏳ DOM
+- ✅ DOM
 - ⏳ Events
 - ⏳ Async JavaScript
 - ⏳ Mini Projects
