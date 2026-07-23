@@ -1,0 +1,8 @@
+// Example: Input Event
+
+const input = document.getElementById("input");
+const output = document.getElementById("output");
+
+input.addEventListener("input", () => {
+  output.textContent = input.value;
+});
