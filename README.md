@@ -20,7 +20,9 @@ javascript-learning/
 ├── 07-Arrays
 ├── 08-Strings
 ├── 09-DOM
-└── 10-Mini-Projects
+├── 10-Events
+├── 11-Async-JavaScript
+└── 12-Mini-Projects
 ```
 
 ## 📚 Topics
