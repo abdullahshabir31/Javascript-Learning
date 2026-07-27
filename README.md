@@ -35,7 +35,7 @@ javascript-learning/
 - ✅ Strings
 - ✅ DOM
 - ✅ Events
-- ⏳ Async JavaScript
+- ✅ Async JavaScript
 - ⏳ Mini Projects
 
 ## 💻 Technologies
