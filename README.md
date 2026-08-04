@@ -149,9 +149,9 @@ Through this repository, I practiced and improved my understanding of:
 
 **Abdullah Shabir**
 
-- 🔗 GitHub: https://github.com/abdullahshabir31
-- 💼 LinkedIn: https://www.linkedin.com/in/abdullahshabir31/
-- 🌐 Portfolio: https://abdullah-shabir-portfolio.vercel.app/
+- GitHub: https://github.com/abdullahshabir31
+- LinkedIn: https://www.linkedin.com/in/abdullahshabir31/
+- Portfolio: https://abdullah-shabir-portfolio.vercel.app/
 
 ---
 
